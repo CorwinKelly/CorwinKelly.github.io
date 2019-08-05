@@ -1,0 +1,20 @@
+{
+	"CLIENT_LABELS": {
+		"PATIENT": "Patient",
+		"EXAM_TYPE": "Exam Type",
+		"PERFORMING": "Performing Physician",
+		"ATTENDING": "Attending Physician",
+		"REFERRING": "Referring Physician",
+		"ADDITIONAL_REFERRING": "Additional Referring Physicians",
+		"NURSE": "Nurse",
+		"ANESTHESIOLOGIST": "Anesthesiologist",
+		"SCOPE": "Scope",
+		"ACCOUNTNUMBER": "Patient MRN",
+		"ROOM": "Room",
+		"FACILITY": "Facility",
+		"LOGIN_ID": "User ID",
+		"SEND_TO_INTERFACE": "Send to Interface",
+		"EXPORT": "Export",
+		"PRINT_REPORT": "Print Report"
+	}
+}

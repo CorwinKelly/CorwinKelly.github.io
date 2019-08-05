@@ -1,0 +1,32 @@
+{
+	"PAGES": {
+		"HOME": {
+			"TITLE": "Thunder cats are gooooo"
+		},
+		"LANDING_PAGE": {
+			"TITLE": "Welcome, {{ userName }}"
+		},
+		"ADMIN": {
+			"DASHBOARD_LAYOUT": {
+				"HEADER": "Dashboard Layout Admin",
+				"EMPTY_ROW_HEADER": "(No Row Header)",
+				"EMPTY_COLUMN_HEADER": "(No Row Header)",
+				"BUTTON_CONFIG": "CONFIG",
+				"BUTTON_ADD_ROW": "ADD ROW",
+				"BUTTON_ADD_COLUMN": "ADD COLUMN",
+				"BUTTON_DELETE": "DELETE",
+				"TAB_DETAILS": "Details",
+				"TAB_EDIT": "Edit Layout",
+				"TAB_PREVIEW": "Preview",
+				"INPUT_LAYOUT_NAME": {
+					"LABEL": "Layout Name",
+					"HINT": "This value is not displayed to the users, and is only used for identification within the Admin section."
+				},
+				"INPUT_TAB_LABEL": {
+					"LABEL": "Tab Label",
+					"TEXT": "The Tab Label is dynamically generated when it is displayed to users."
+				}
+			}
+		}
+	}
+}
